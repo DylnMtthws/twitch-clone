@@ -7,3 +7,5 @@ export default function Home() {
     </div>
   );
 }
+
+// Need to follow youtube video for updated Home page
