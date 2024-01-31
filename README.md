@@ -1,3 +1,5 @@
+follow tutorial here (https://www.youtube.com/watch?v=a02JAryRPVU&t=9786s&ab_channel=CodeWithAntonio)
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
